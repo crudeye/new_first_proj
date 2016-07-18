@@ -6,5 +6,5 @@ Now I'm branching.  Can you dig it?
 
 This is in the new_feature branch, but it will not appear in shorten-title branch.  
 
-
+This is so I can make a commit to master so it won't be able to do a fast-forward with shorten-title.
 
